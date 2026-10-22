@@ -1,0 +1,7 @@
+results/gullible-mock.*
+results/partial_*
+results/run_log.txt
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
